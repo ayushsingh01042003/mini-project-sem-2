@@ -9,7 +9,7 @@ global sum_dry_total,sum_wet_total
 sum_dry_total=0
 sum_wet_total=0
 
-
+# starting of the first function
     
 
     
